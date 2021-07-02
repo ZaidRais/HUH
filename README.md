@@ -1,0 +1,3 @@
+# iEducation
+THIS TEMPLATE IS DESIGN ONLY USING HTML5,CSS3 AND JAVASCRIPT
+TO VISITE WESITE: https://csb-bxvr9.netlify.app/
